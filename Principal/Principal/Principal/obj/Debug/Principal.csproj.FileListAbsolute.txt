@@ -1,0 +1,2 @@
+C:\Users\Rayza\Desktop\Loja_Calcados\Principal\Principal\bin\Debug\Principal.exe.config
+E:\Loja_Calcados\Principal\Principal\bin\Debug\Principal.exe.config
